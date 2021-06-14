@@ -1,2 +1,2 @@
 # digital-store
-Django Project
+It is an ongoing Django project.
